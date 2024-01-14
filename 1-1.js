@@ -1,1 +1,2 @@
-function gazo1(){document.getElementById('who1').innerHTML='<img src="./image/IMG_1337.JPG"alt="オン">';}
+function imgchange3(){ document.getElementById('ju').src='./image/';}
+function imgchange4(){ document.getElementById('ju').src='./image/';}
